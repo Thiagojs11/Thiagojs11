@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#suport-or-contact">Support or Contact</a>      
+      <a href="#about-the-project">About The Project</a>     
     </li>
     <li>
       <a href="#tecnologies">Tecnologies</a>      
@@ -72,8 +72,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- SUPORT OR CONTACT -->
-## Support or Contact
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail.com)
 
