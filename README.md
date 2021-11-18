@@ -91,7 +91,7 @@ Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail
   <br>
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><br>
-  <img align="center" alt="Thiago-Ts" height="30" width="40" href="https://angular.io" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><br><br>
+  <img align="center" alt="Thiago-Ts" height="30" width="40" href="https://angular.io" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="ts" style="width:auto;"><br><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><br>
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br><br>
   <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"><br><br> 
