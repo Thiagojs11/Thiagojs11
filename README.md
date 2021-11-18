@@ -20,10 +20,13 @@ Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail
 ####
 
 
-<div align="center">
+<div align="left">
  <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thiagojs11&show_icons=true&theme=monokai&count_private=true" 
 </div>
   
+<!-- TECNOLOGIES WORK -->
+## Tecnologies work
+   
 <div align="left">
   <br>
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -38,8 +41,9 @@ Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail
  <br>
  <br>
 
- <!-- TECNOLOGIES WORK -->
-## Tecnologies work
+
+
+
 <div align="left"> 
   <a href = "mailto:tiagojs11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-soares-735320142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
