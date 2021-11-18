@@ -1,14 +1,15 @@
 <div id="top"></div>
+  
+<!-- Hey there -->
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiagojs11&color=brightgreen" alt="Thiagojs11" /> </p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#languages-and0-tools">Languages and Tools</a>     
+      <a href="#languages-and-tools">Languages and Tools</a>     
     </li>
     <li>
       <a href="#contact">Contact</a>      
@@ -16,10 +17,19 @@
   </ol>
 </details>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiagojs11&color=brightgreen" alt="Thiagojs11" /> </p>
+<br/>
+<br/>
+
+<div align="left">
+  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
+
+
 <div align="left">
  <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thiagojs11&show_icons=true&theme=monokai&count_private=true" 
 </div>
-  
+
 <!-- Languages and Tools-->
 ## Languages and Tools:
 
