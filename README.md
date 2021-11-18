@@ -1,5 +1,8 @@
 <div id="top"></div>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiagojs11&color=brightgreen" alt="Thiagojs11" /> </p>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -12,13 +15,6 @@
     </li>
   </ol>
 </details>
-
-
-
-
-
-
-
 
 <div align="left">
  <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thiagojs11&show_icons=true&theme=monokai&count_private=true" 
