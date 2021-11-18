@@ -24,10 +24,9 @@
 ## Build With
 
 * [Java](https://dev.java/learn/)
-* [Angular](https://angular.io/)
+* [JavaScript](https://www.javascript.com/learn/strings)
 * [Angular](https://angular.io/)
 * [HTML](https://www.w3schools.com/html/)
-* [JavaScript](https://www.javascript.com/learn/strings)
 * [CSS](https://www.w3schools.com/css/)
 * [Flutter](https://flutter.dev/development)
 * [Dart](https://dart.dev/)
