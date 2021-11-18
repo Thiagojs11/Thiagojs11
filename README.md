@@ -1,10 +1,5 @@
 <div id="top"></div>
 
-# Donation Button
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=7X32KYMSTQXM2)
-
-
 
 <!-- Hey there -->
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -92,7 +87,11 @@
   
  <p align="right">(<a href="#top">back to top</a>)</p>
 </div>
-  
+
+## Donation Button
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=7X32KYMSTQXM2)
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7X32KYMSTQXM2)
   
   ![Snake animation](https://github.com/Thiagojs11/Thiagojs11/blob/output/github-contribution-grid-snake.svg)
