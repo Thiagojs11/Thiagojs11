@@ -1,5 +1,9 @@
 <div id="top"></div>
-  
+
+<p align="center">
+  <img src="https://github.com/Thiagojs11/Thiagojs11/raw/main/assets/github.gif" alt="Hi, I'm Thiago soares 👋 I'm a 🚀 Brasilian developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 <!-- Hey there -->
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
