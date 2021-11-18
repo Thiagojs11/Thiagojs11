@@ -8,7 +8,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#build-with">Build With</a>     
+      <a href="#languages-and0-tools">Languages and Tools</a>     
     </li>
     <li>
       <a href="#contact">Contact</a>      
@@ -20,11 +20,12 @@
  <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thiagojs11&show_icons=true&theme=monokai&count_private=true" 
 </div>
   
-<!-- BUILD WITH -->
-## Build With
+<!-- Languages and Tools-->
+## Languages and Tools:
 
 * [Java](https://dev.java/learn/)
-* [JavaScript](https://www.javascript.com/learn)
+* [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Angular](https://angular.io/)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
@@ -33,13 +34,30 @@
    
 <div align="left">
   <br>
-  <img align="center" alt="Thiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" >
-  <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <a href="https://dev.java/learn/" target="_blank"> 
+    <img align="center" alt="Thiago-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
+  </a>
+  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/index.html" target="_blank"> 
+    <img align="center" alt="Thiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" >
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://flutter.dev/development" target="_blank">
+    <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
