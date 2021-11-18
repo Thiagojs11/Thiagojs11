@@ -55,4 +55,4 @@
  <p align="right">(<a href="#top">back to top</a>)</p>
 </div>
 
-  ![Snake animation](https://github.com/thiago/Thiagojs11/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Thiagojs11/Thiagojs11/blob/output/github-contribution-grid-snake.svg)
