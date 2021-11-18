@@ -34,10 +34,10 @@
    
 <div align="left">
   <br>
-  <a href="https://dev.java/learn/" target="_blank"> 
+  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/index.html" target="_blank"> 
     <img align="center" alt="Thiago-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
   </a>
-  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/index.html" target="_blank"> 
+  <a href="https://dev.java/learn/" target="_blank"> 
     <img align="center" alt="Thiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -50,7 +50,7 @@
     <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   </a>
   <a href="https://flutter.dev/development" target="_blank">
     <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
