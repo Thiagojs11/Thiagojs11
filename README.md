@@ -3,10 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#tecnologies-work">Tecnologies work</a>
-      <ul>
-        <li><a href="#tecnologies-work">Teclogies</a></li>
-      </ul>
+      <a href="#tecnologies-work">Tecnologies</a>      
     </li>
     
   </ol>
@@ -25,7 +22,7 @@ Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail
 </div>
   
 <!-- TECNOLOGIES WORK -->
-## Tecnologies work
+## Tecnologies 
    
 <div align="left">
   <br>
