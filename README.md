@@ -15,6 +15,9 @@
     <li>
       <a href="#contact">Contact</a>      
     </li>
+    <li>
+      <a href="#donation-button">Donation Button</a>      
+    </li>
   </ol>
 </details>
 
@@ -88,6 +91,7 @@
  <p align="right">(<a href="#top">back to top</a>)</p>
 </div>
 
+<!-- DONATION BUTTON -->
 ## Donation Button
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=7X32KYMSTQXM2)
