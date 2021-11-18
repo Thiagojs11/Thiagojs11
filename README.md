@@ -8,10 +8,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#contact">Contact</a>     
+      <a href="#build-with">Build With</a>     
     </li>
     <li>
-      <a href="#build-with">Build With</a>      
+      <a href="#contact">Contact</a>      
     </li>
   </ol>
 </details>
