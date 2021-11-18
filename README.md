@@ -69,6 +69,9 @@
   <a href="https://dart.dev/" target="_blank">
     <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </a>
+  <a href="https://hub.docker.com/" target="_blank">
+    <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+  </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
