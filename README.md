@@ -8,7 +8,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#contact-or-support">Contact or Support</a>     
+      <a href="#contact">Contact</a>     
     </li>
     <li>
       <a href="#build-with">Build With</a>      
@@ -45,7 +45,9 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<!-- CONTACT -->
+## Contact
+  
 <div align="left"> 
   <a href = "mailto:tiagojs11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-soares-735320142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
