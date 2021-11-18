@@ -24,7 +24,7 @@
 ## Build With
 
 * [Java](https://dev.java/learn/)
-* [JavaScript](https://www.javascript.com/learn/strings)
+* [JavaScript](https://www.javascript.com/learn)
 * [Angular](https://angular.io/)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
