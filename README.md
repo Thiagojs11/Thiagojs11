@@ -1,4 +1,19 @@
-### Support or Contact
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#tecnologies-work">Tecnologies work</a>
+      <ul>
+        <li><a href="#tecnologies-work">Teclogies</a></li>
+      </ul>
+    </li>
+    
+  </ol>
+</details>
+
+<!-- CONTACT -->
+## Support or Contact
 
 Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail.com)
 
@@ -22,7 +37,9 @@ Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail
 
  <br>
  <br>
-  
+
+ <!-- TECNOLOGIES WORK -->
+## Tecnologies work
 <div align="left"> 
   <a href = "mailto:tiagojs11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-soares-735320142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
