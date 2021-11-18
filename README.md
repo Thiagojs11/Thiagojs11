@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#contact">Support or Contact</a>      
+      <a href="#suport-or-contact">Support or Contact</a>      
     </li>
     <li>
       <a href="#tecnologies">Tecnologies</a>      
@@ -72,7 +72,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- CONTACT -->
+<!-- SUPORT OR CONTACT -->
 ## Support or Contact
 
 Please feel free to get in touch, I'll be happy to help [Email](thiagojs11@gmail.com)
