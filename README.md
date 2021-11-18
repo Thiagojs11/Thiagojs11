@@ -23,14 +23,10 @@
 <!-- BUILD WITH -->
 ## Build With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
+* [Java](https://dev.java/learn/)
 * [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Angular](https://angular.io/)
+* [JavaScript](https://www.javascript.com/learn/strings)
    
 <div align="left">
   <br>
