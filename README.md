@@ -38,6 +38,7 @@
 ## Languages and Tools:
 
 * [Java](https://dev.java/learn/)
+* [Docker](https://hub.docker.com/)   
 * [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Angular](https://angular.io/)
@@ -45,15 +46,19 @@
 * [CSS](https://www.w3schools.com/css/)
 * [Flutter](https://flutter.dev/development)
 * [Dart](https://dart.dev/)
+
    
    
 <div align="left">
-  <br>
-  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/index.html" target="_blank"> 
-    <img align="center" alt="Thiago-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
-  </a>
+  <br>  
   <a href="https://dev.java/learn/" target="_blank"> 
     <img align="center" alt="Thiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  </a>
+  <a href="https://hub.docker.com/" target="_blank">
+    <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+  </a>
+  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/index.html" target="_blank"> 
+    <img align="center" alt="Thiago-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -72,10 +77,7 @@
   </a>
   <a href="https://dart.dev/" target="_blank">
     <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  </a>
-  <a href="https://hub.docker.com/" target="_blank">
-    <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-  </a>
+  </a>  
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
