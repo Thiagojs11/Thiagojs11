@@ -26,11 +26,12 @@
 <br/>
 
 <div align="left">
-  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="left" alt="GIF" src="./assets/code.gif?raw=true" width="500" height="320" />
 </div>
 
   
-<a href="https://github.com/Thiagojs11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?    username=Thiagojs11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thiagojs11 github stats" />
+<a href="https://github.com/Thiagojs11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiagojs11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thiagojs11 github stats" />
 </a> 
 <a href="https://github.com/Thiagojs11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagojs11&layout=compact&theme=buefy&hide_border=true" /></a> 
 
